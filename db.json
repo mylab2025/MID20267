@@ -7,12 +7,12 @@
         "MF": "-"
       },
       "MID": "MID20267",
-      "MD": " SMD CER.CAPAC. 100nF-50V-10%-X7R-0805 SMD CAPACITOR 100uF (1210 Package) || Design Ref: D153 || Required MIDs : MID20263",
+      "MD": " SMD CER.CAPAC. 100uF-10V-20%-X5R-1210 SMD CAPACITOR 100uF (1210 Package) || Design Ref: D153 || Required MIDs : MID20263",
       "MT": "Electronic Comp.",
       "MQNT": 8,
       "MQATG": "#CLASS1",
       "ML": "102",
-      "MDS": "https://docs.google.com/viewerng/viewer?url= https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20267%2Fmain%2FEC0838_en_-.1_1.pdf",
+      "MDS": "https://docs.google.com/viewerng/viewer?url= https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20267%2Fmain%2FNIC_NMC1210X5R107K10TRPLPF%20Data%20Sheet.pdf",
       "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20267%2Fmain%2F51437977D02_en_E.1_51437977d02_en_e.1_51437977d02.pdf",
       "MaterialImages": [
         "https://raw.githubusercontent.com/mylab2025/MID20267/main/WhatsApp Image 2025-04-05 at 2.13.35 PM.jpeg"
